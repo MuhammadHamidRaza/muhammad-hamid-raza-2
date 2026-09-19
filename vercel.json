@@ -35,7 +35,7 @@
   ],
   "rewrites": [
     {
-      "source": "/((?!api/|assets/|sitemap\\.xml|robots\\.txt).*fires*)",
+      "source": "/((?!api/|assets/|sitemap\\.xml|robots\\.txt|favicon\\.ico).*)",
       "destination": "/index.html"
     }
   ]
