@@ -1,0 +1,6 @@
+# robots.txt for https://hamidraza.dev/
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://hamidraza.dev/sitemap.xml
